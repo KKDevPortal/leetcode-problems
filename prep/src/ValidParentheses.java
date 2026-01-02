@@ -46,6 +46,8 @@ Output: false
         String s = "([{])";
 
         System.out.println(checkValid(s));
+
+        int[] nums = {1,2,3};
     }
 
     static boolean checkValid(String s) {
